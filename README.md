@@ -6,11 +6,11 @@ Key Findings
 Horizontal Bar Chart – Top 5 Products by Sales
 This chart displays the five highest-grossing products, highlighting category leaders in total sales amount.
 
-Tablets lead sales performance with the highest revenue (~$31.5K), suggesting strong market demand. This category could benefit from expanded promotions or inventory to sustain momentum.
-Wearables (Smartwatches) are close behind (~$28.2K), indicating a growing consumer shift toward tech-lifestyle products. Bundling with smartphones or accessories could drive cross-sell opportunities.
-Laptops (~$27.7K) show steady sales, highlighting them as a consistent revenue driver. Targeted offers for students and professionals might further boost this category.
-Apparel (T-Shirts & Jackets) contribute significantly (~$27K each), proving fashion is an important parallel revenue stream. Seasonal collections or discounts could amplify sales.
-The balance between electronics and apparel suggests customer diversity—indicating potential to design hybrid campaigns (e.g., “Back-to-School Tech + Apparel bundles”).
+1. Tablets lead sales performance with the highest revenue (~$31.5K), suggesting strong market demand. This category could benefit from expanded promotions or inventory to sustain momentum.
+2. Wearables (Smartwatches) are close behind (~$28.2K), indicating a growing consumer shift toward tech-lifestyle products. Bundling with smartphones or accessories could drive cross-sell opportunities.
+3. Laptops (~$27.7K) show steady sales, highlighting them as a consistent revenue driver. Targeted offers for students and professionals might further boost this category.
+4. Apparel (T-Shirts & Jackets) contribute significantly (~$27K each), proving fashion is an important parallel revenue stream. Seasonal collections or discounts could amplify sales.
+5. The balance between electronics and apparel suggests customer diversity—indicating potential to design hybrid campaigns (e.g., “Back-to-School Tech + Apparel bundles”).
 
 Line Chart – Monthly Sales Trends
 This chart shows overall revenue fluctuations across months, revealing seasonality and growth patterns.
@@ -61,3 +61,4 @@ Check the visualizations/ folder for exported charts.
 
 
 For any questions or contributions, feel free to open an issue or submit a pull request!
+
