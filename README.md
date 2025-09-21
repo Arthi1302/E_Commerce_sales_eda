@@ -2,6 +2,7 @@ E-Commerce Sales EDA Project
 Project Summary
 This project performs an Exploratory Data Analysis (EDA) on e-commerce sales data to uncover insights into product performance, sales trends, and customer demographics. By leveraging data visualization and statistical analysis, the project identifies key patterns, seasonal trends, and opportunities for strategic business decisions. The dataset includes sales records, customer demographics, and regional data for a full year (2024).
 
+
 Key Findings
 Horizontal Bar Chart – Top 5 Products by Sales
 This chart displays the five highest-grossing products, highlighting category leaders in total sales amount.
@@ -12,23 +13,25 @@ This chart displays the five highest-grossing products, highlighting category le
 4. Apparel (T-Shirts & Jackets) contribute significantly (~$27K each), proving fashion is an important parallel revenue stream. Seasonal collections or discounts could amplify sales.
 5. The balance between electronics and apparel suggests customer diversity—indicating potential to design hybrid campaigns (e.g., “Back-to-School Tech + Apparel bundles”).
 
+
 Line Chart – Monthly Sales Trends
 This chart shows overall revenue fluctuations across months, revealing seasonality and growth patterns.
 
-August 2024 recorded the peak sales at $27,860, about 29% above the monthly average—this suggests strong seasonal demand; replicating August’s promotions or campaigns could help replicate this spike in other months.
-June 2024 was the weakest month at $16,672, nearly 24% below average, signaling a mid-year slump; targeted campaigns or discount strategies in Q2 could help stabilize sales during this dip.
-Q3 (July–September) was the strongest quarter ($75,332), consistently outperforming the average; this period could be leveraged for major product launches or bundled offers.
-Sales volatility is evident (range of $11,188 between lowest and highest month), highlighting the need for demand forecasting and inventory planning to manage stock better.
-With total sales of $262,991 across the year, maintaining the average monthly run rate (~$22K) while addressing weak months could push annual revenue beyond $280K next year.
+1. August 2024 recorded the peak sales at $27,860, about 29% above the monthly average—this suggests strong seasonal demand; replicating August’s promotions or campaigns could help replicate this spike in other months.
+2. June 2024 was the weakest month at $16,672, nearly 24% below average, signaling a mid-year slump; targeted campaigns or discount strategies in Q2 could help stabilize sales during this dip.
+3. Q3 (July–September) was the strongest quarter ($75,332), consistently outperforming the average; this period could be leveraged for major product launches or bundled offers.
+4. Sales volatility is evident (range of $11,188 between lowest and highest month), highlighting the need for demand forecasting and inventory planning to manage stock better.
+5. With total sales of $262,991 across the year, maintaining the average monthly run rate (~$22K) while addressing weak months could push annual revenue beyond $280K next year.
+
 
 Bar Chart – Average Customer Age by Region
 This chart compares mean customer ages across regions to identify demographic differences in purchasing behavior.
 
-Customer age is remarkably consistent across regions (41–42 years), indicating a stable mid-age demographic as the core buyer base.
-North region skews slightly older at 42.4 years, suggesting potential for premium or higher-value product targeting compared to other regions.
-East region has the youngest average customers (41.1 years), which could open opportunities for trend-driven marketing or youth-oriented campaigns.
-The age range across regions is just 1.2 years, meaning regional differences are minimal—broad campaigns can perform well, with only minor tailoring needed.
-With an overall average of 41.7 years, strategies should prioritize mid-career professionals and families, balancing practicality with aspirational product messaging.
+1. Customer age is remarkably consistent across regions (41–42 years), indicating a stable mid-age demographic as the core buyer base.
+2. North region skews slightly older at 42.4 years, suggesting potential for premium or higher-value product targeting compared to other regions.
+3. East region has the youngest average customers (41.1 years), which could open opportunities for trend-driven marketing or youth-oriented campaigns.
+4. The age range across regions is just 1.2 years, meaning regional differences are minimal—broad campaigns can perform well, with only minor tailoring needed.
+5. With an overall average of 41.7 years, strategies should prioritize mid-career professionals and families, balancing practicality with aspirational product messaging.
 
 
 Skills Demonstrated
@@ -61,4 +64,5 @@ Check the visualizations/ folder for exported charts.
 
 
 For any questions or contributions, feel free to open an issue or submit a pull request!
+
 
